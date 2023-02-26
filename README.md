@@ -3,6 +3,7 @@
 Development editor: pycharm
 Running environment: Ubuntu 16.04.7 LTS (GNU/Linux 4.15.0-142-generic x86_64), anaconda virtual environment
 Required libraries and packages: The following packages are installed in the anaconda Innovations virtual environment.
+
 Cython	0.29.28
 Deprecated	1.2.13
 Jinja2	3.1.1
