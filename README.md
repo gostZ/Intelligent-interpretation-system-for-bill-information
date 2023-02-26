@@ -153,3 +153,4 @@ conda: pytorch-cpu torchvision-cpu -c pytorch
 As shown in the system display, click on the upload image and select the type of recognition to view the returned results. Note that you need to turn off the display of the test result image before the returned results can be displayed on the page. The effect is as follows.
 
 <img width="423" alt="image" src="https://user-images.githubusercontent.com/50789587/221418116-424523d4-8285-412c-8c4f-4b09740d2495.png">
+<img width="428" alt="image" src="https://user-images.githubusercontent.com/50789587/221418203-ee25497d-5df9-47e1-9d38-6f4e90db57f1.png">
